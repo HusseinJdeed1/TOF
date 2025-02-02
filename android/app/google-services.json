@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900261811907",
+    "project_id": "trueorfalse-5bca7",
+    "storage_bucket": "trueorfalse-5bca7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900261811907:android:30caa472313a038045f476",
+        "android_client_info": {
+          "package_name": "com.example.true_false_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMn_avG9xOc5UZJ184Hvgjer90wtNJfTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
