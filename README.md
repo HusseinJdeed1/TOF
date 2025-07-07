@@ -1,16 +1,38 @@
-# true_false_game
+## ✅ TOF - True or False Quiz App
+🚀 I'm excited to share TOF, a quiz mobile application built using Flutter & Firebase, designed to offer a smooth, engaging user experience with dynamic question generation and user performance tracking.
 
-A new Flutter project.
+📱 Key Features:
+🔐 Firebase Authentication (Email & Password login)
 
-## Getting Started
+🧠 Select question topic (sport, history, etc.)
 
-This project is a starting point for a Flutter application.
+📊 Choose number of questions and difficulty level
 
-A few resources to get you started if this is your first Flutter project:
+🧾 Track your performance:
+          
+          Records latest score
+          
+          Displays highest score
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+☁️ Real-time database integration with Firebase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 🎯 What I Learned
+This project helped me gain practical experience in:
+
+Firebase authentication and Firestore database integration
+
+Dynamic UI rendering based on user input
+
+Handling app state and navigation flow
+
+Building clean and modular Flutter code
+
+Managing user sessions and storing persistent data
+
+🔗 Demo 
+📲 Coming Soon –[APK](https://drive.google.com/file/d/1DZJ-LaewXbxCPqOO82WQqyrf6wJzSHoQ/view?usp=drive_link)
+
+
+ه
+🖼️ Screenshots
+<p float="left"> <img src="https://github.com/HusseinJdeed1/TOF/blob/master/assets/icons/1.jpg" width="200" /> <img src="https://github.com/HusseinJdeed1/TOF/blob/master/assets/icons/2.jpg" width="200" /> <img src="https://github.com/HusseinJdeed1/TOF/blob/master/assets/icons/3.jpg" width="200" /> <img src="https://github.com/HusseinJdeed1/TOF/blob/master/assets/icons/4.jpg" width="200" /> <img src="https://github.com/HusseinJdeed1/TOF/blob/master/assets/icons/5.jpg" width="200" /> <img src="https://github.com/HusseinJdeed1/TOF/blob/master/assets/icons/6.jpg" width="200" /> <img src="https://github.com/HusseinJdeed1/TOF/blob/master/assets/icons/7.jpg" width="200" /> </p>
