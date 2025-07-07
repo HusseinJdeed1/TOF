@@ -10,9 +10,9 @@
 
 🧾 Track your performance:
           
-          Records latest score
+ Records latest score
           
-          Displays highest score
+ Displays highest score
 
 ☁️ Real-time database integration with Firebase
 
@@ -30,9 +30,8 @@ Building clean and modular Flutter code
 Managing user sessions and storing persistent data
 
 🔗 Demo 
-📲 Coming Soon –[APK](https://drive.google.com/file/d/1DZJ-LaewXbxCPqOO82WQqyrf6wJzSHoQ/view?usp=drive_link)
+📲 [APK](https://drive.google.com/file/d/1DZJ-LaewXbxCPqOO82WQqyrf6wJzSHoQ/view?usp=drive_link)
 
 
-ه
 🖼️ Screenshots
 <p float="left"> <img src="https://github.com/HusseinJdeed1/TOF/blob/master/assets/icons/1.jpg" width="200" /> <img src="https://github.com/HusseinJdeed1/TOF/blob/master/assets/icons/2.jpg" width="200" /> <img src="https://github.com/HusseinJdeed1/TOF/blob/master/assets/icons/3.jpg" width="200" /> <img src="https://github.com/HusseinJdeed1/TOF/blob/master/assets/icons/4.jpg" width="200" /> <img src="https://github.com/HusseinJdeed1/TOF/blob/master/assets/icons/5.jpg" width="200" /> <img src="https://github.com/HusseinJdeed1/TOF/blob/master/assets/icons/6.jpg" width="200" /> <img src="https://github.com/HusseinJdeed1/TOF/blob/master/assets/icons/7.jpg" width="200" /> </p>
